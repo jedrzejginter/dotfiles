@@ -13,7 +13,7 @@ Those apps have to be installed manually:
 - Horo
 - HP Smart
 - ImageOptim
-- iTerm
+- iTerm + Oh My ZSH
 - Monosnap
 - OBS
 - Postgres
