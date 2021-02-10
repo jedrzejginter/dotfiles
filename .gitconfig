@@ -1,0 +1,12 @@
+[user]
+	name = Jedrzej Ginter
+	email = jedrzej.ginter@monterail.com
+[push]
+	default = matching
+[core]
+	excludesfile = /Users/jay/.gitignore_global
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
